@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Changa:wght@200..800&family=Permanent+Marker&display=swap');
+
+.homepage{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 95vh;
+    flex-direction: column;
+    background-image: radial-gradient(93% 87% at 87% 89%, rgba(0, 0, 0, 0.23) 0%, transparent 86.18%), radial-gradient(66% 66% at 26% 20%, rgba(255, 255, 255, 0.55) 0%, rgba(255, 255, 255, 0) 69.79%, rgba(255, 255, 255, 0) 100%);
+    background: url('https://i.pinimg.com/originals/3b/23/32/3b23325d83390789fa5cfb4b75e1b53c.jpg');
+    background: url('https://w0.peakpx.com/wallpaper/559/471/HD-wallpaper-luxury-ornaments-texture-retro-ornament-texture-retro-backgrounds-beige-retro-texture-seamless-texture.jpg');
+    /* background: url('https://marketplace.canva.com/EAEvMCd6NM0/1/0/1600w/canva-aesthetic-modern-linktree-background-MIiMYzwEOCE.jpg'); */
+    background: url('https://www.decoratorsbest.com/cdn/shop/files/6880450412590_20.jpg?v=1692790886');
+    background: url('background.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.homepage .header h1{
+    font-size: 5rem;
+    margin-right: 15px;
+    color: #20a9a9;
+    text-shadow: inset -3px -3px 9px rgba(255, 255, 255, 0.25), inset 0px 3px 9px rgba(255, 255, 255, 0.3), inset 0px 1px 1px rgba(255, 255, 255, 0.6), inset 0px -8px 36px rgba(0, 0, 0, 0.3), inset 0px 1px 5px rgba(255, 255, 255, 0.6), 2px 19px 31px rgba(0, 0, 0, 0.2);
+    font-family: "Changa", sans-serif;
+    font-optical-sizing: auto;
+}
+
+.home-buttons{
+    margin: 10px;
+    text-decoration: none;
+}
+
+.home-nav{
+    margin-top: 20px;
+}
+
+.button-91 {
+  color: #fff;
+  padding: 15px 25px;
+  background-color: #38D2D2;
+  background-image: radial-gradient(93% 87% at 87% 89%, rgba(0, 0, 0, 0.23) 0%, transparent 86.18%), radial-gradient(66% 66% at 26% 20%, rgba(255, 255, 255, 0.55) 0%, rgba(255, 255, 255, 0) 69.79%, rgba(255, 255, 255, 0) 100%);
+  box-shadow: inset -3px -3px 9px rgba(255, 255, 255, 0.25), inset 0px 3px 9px rgba(255, 255, 255, 0.3), inset 0px 1px 1px rgba(255, 255, 255, 0.6), inset 0px -8px 36px rgba(0, 0, 0, 0.3), inset 0px 1px 5px rgba(255, 255, 255, 0.6), 2px 19px 31px rgba(0, 0, 0, 0.2);
+  border-radius: 14px;
+  font-weight: bold;
+  font-size: 16px;
+
+  border: 0;
+
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+
+  cursor: pointer;
+}
+
+.button-91:hover{
+    background-image: radial-gradient(93% 87% at 87% 89%, rgba(177, 177, 177, 0.23) 0%, transparent 86.18%), radial-gradient(66% 66% at 26% 20%, rgba(255, 255, 255, 0.424) 0%, rgba(113, 113, 113, 0) 69.79%, rgba(255, 255, 255, 0) 100%);
+    box-shadow: inset -3px -3px 9px rgba(255, 255, 255, 0.25), inset 0px 3px 9px rgba(255, 255, 255, 0.3), inset 0px 1px 1px rgba(255, 255, 255, 0.6), inset 0px -8px 36px rgba(0, 0, 0, 0.3), inset 0px 1px 5px rgba(255, 255, 255, 0.6), 2px 19px 31px rgba(0, 0, 0, 0.2);
+}
